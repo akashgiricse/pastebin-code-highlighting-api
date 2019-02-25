@@ -12,6 +12,7 @@ pygments = "*"
 httpie = "*"
 coreapi = "*"
 pyyaml = "*"
+django-rest-swagger = "*"
 
 [requires]
 python_version = "3.6"
